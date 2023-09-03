@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reda Benmakhlouf</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">An enthusiastic learner enrolled at 42 School. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=red2i13&label=Profile%20views&color=0e75b6&style=flat" alt="red2i13" /> </p>
 
