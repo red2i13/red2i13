@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reda Benmakhlouf</h1>
 <h3 align="center">An enthusiastic learner enrolled at 42 School. </h3>
 
+<iframe src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C">via GIPHY</a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=red2i13&label=Profile%20views&color=0e75b6&style=flat" alt="red2i13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=red2i13" alt="red2i13" /></a> </p>
