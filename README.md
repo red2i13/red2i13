@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reda Benmakhlouf</h1>
 <h3 align="center">An enthusiastic learner enrolled at 42 School. </h3>
 
-<img src="https://media2.giphy.com/media/AOSwwqVjNZlDO/giphy.gif?cid=ecf05e47hf865dywkt718n4l9eys7apq0hgdqu2dm08sip4m&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="code GIF" style="width: 100vw; height: 315.278px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://tse1.mm.bing.net/th/id/OIG2.Mim9JhnrMXtWDN0rOCi2?pid=ImgGn" alt="code GIF" style="width: 100vw; height: 315.278px; left: 0px; top: 0px; opacity: 0;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=red2i13&label=Profile%20views&color=0e75b6&style=flat" alt="red2i13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=red2i13" alt="red2i13" /></a> </p>
